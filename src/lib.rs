@@ -1,5 +1,6 @@
 #![warn(missing_docs)]
 #![allow(clippy::upper_case_acronyms)]
+#![warn(clippy::not_unsafe_ptr_arg_deref)]
 
 //! # Safe JNI Bindings in Rust
 //!
